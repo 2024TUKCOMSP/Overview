@@ -7,4 +7,6 @@
     * Github Action을 이용한 CI(Continuous Integration)/CD(Continuous Delivery)
   * Firebase를 활용한 모바일 앱 개발
 ## 1주차
+
+### 참고문헌
 [지옥에서 온 문서관리자, 깃&깃허브 입문 저자 동영상] https://opentutorials.org/module/3733
