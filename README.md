@@ -16,7 +16,7 @@
  * 7/2(화) - 7/5(금): Git/Github/Hithub Action 단기교육 수강 및 습득
    
 #### 참고문헌
-[지옥에서 온 문서관리자, 깃&깃허브 입문 저자 동영상] https://opentutorials.org/module/3733
+ * [지옥에서 온 문서관리자, 깃&깃허브 입문 저자 동영상] https://opentutorials.org/module/3733
 
 ## 2주차(7/8 - 7/12)
  * 7/8(월): Agile 개발방법론 및 Scrum Framework 소개, 팀 구성
