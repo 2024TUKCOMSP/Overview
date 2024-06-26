@@ -16,6 +16,7 @@
  * 7/2(화) - 7/5(금): Git/Github/Hithub Action 단기교육 수강 및 습득
    
 #### 참고문헌
+ * [허준영 교수 강의자료] https://jyheo.github.io/github-lecture/
  * [지옥에서 온 문서관리자, 깃&깃허브 입문 저자 동영상] https://opentutorials.org/module/3733
 
 ## 2주차(7/8 - 7/12)
