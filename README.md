@@ -28,6 +28,7 @@
 
 ### 참고문헌
  * [Scrum Overview 동영상] https://www.youtube.com/watch?v=9TycLR0TqFA
+ * [스크럼 강의 동영상 모음] https://www.youtube.com/watch?v=2ukuT00ubuk&list=PLEzRFBCPYeykK--XlWANwKcvhf23DyS3G&index=1&t=8s
    
 ## 3주차(7/15 - 7/19)
  * 7/15(월): Github에서 협업하는 방법: Github Issues, Project, Pull-Request 사용법 (장소: E동 321호)
