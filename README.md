@@ -24,7 +24,8 @@
  * [지옥에서 온 문서관리자, 깃&깃허브 입문 저자 동영상] https://opentutorials.org/module/3733
 
 ## 2주차(7/8 - 7/12)
- * 7/8(월): Agile 개발방법론 및 Scrum Framework 소개, 팀 구성 (장소: E동 321호)
+ * 7/8(월): Agile 개발방법론 및 Scrum Framework 소개, 팀 구성 (장소: E동 321호), 회식
+ * 7/11(목) (장소 E동 321호)
 
 ### 참고문헌
  * [Scrum Overview 동영상] https://www.youtube.com/watch?v=9TycLR0TqFA
@@ -33,3 +34,13 @@
    
 ## 3주차(7/15 - 7/19)
  * 7/15(월): Github에서 협업하는 방법: Github Issues, Project, Pull-Request 사용법 (장소: E동 321호)
+
+## 4주차(7/22 - 7/25)
+ * 7/25(목) (장소:E동 321호)
+
+## 5주차(7/29 - 8/2)
+ * 7/29(월) (장소: E동 321호)
+ * 8/2(금): 프로젝트 발표
+
+## 6주차(8/5 - 8/8)
+ * pytorch를 이용한 딥러닝 개요 단기 강좌 수강
