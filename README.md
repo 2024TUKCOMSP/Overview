@@ -31,7 +31,7 @@
  * 7/8(월): Agile 개발방법론 및 Scrum Framework 소개, 팀 구성 (시간:오후 1시 30분, 장소: E동 321호), 회식(추후 공지)
  * 7/11(목): 팀 별로 구현할 프로젝트 발표, 팀별 Repository 생성 및 팀원 초정 (시간: 오후 1시 30분, 장소 E동 321호)
 
-### 참고문헌
+#### 강의자료 및 참고문헌
  * [Scrum 강의자료] [https://github.com/2024TUKCOMSP/Overview/blob/main/2024SP-StudyPlan.pdf]
  * [Scrum Overview 동영상] [https://www.youtube.com/watch?v=9TycLR0TqFA]
  * [애자일 소프트웨어 개발, SKPlanet TAcademy] [https://www.youtube.com/watch?v=NoMznX8S9pU&list=PL9mhQYIlKEhf3JxWcaim5anL0_pVFRsZT]
@@ -40,7 +40,7 @@
 ## 3주차(7/15 - 7/19)
  * 7/15(월): Github에서 협업하는 방법: Github Issues, Project, Pull-Request, Git Flow (장소: E동 321호)
 
-### 참고문헌
+#### 참고문헌
  * [Github로 그룹 프로젝트 하는 방법, 코딩하는 누나 동영상] [https://www.youtube.com/watch?v=tkkbYCajCjM&list=WL&index=2]
  * [Git Flow, 코딩애플] [https://www.youtube.com/watch?v=EV3FZ3cWBp8&t=269s]
  * [안드로이드 Firebase 강의, 하울의 코딩 채널] https://www.youtube.com/watch?v=u1CE6UtLbmQ&list=PLmdU__e_zPf_6x2x_7iNDrH2faXNdVM4K&index=1
@@ -51,7 +51,7 @@
  * AI Coding Assistant를 활용한 소프트웨어 개발
  * VS Code 사용법
    
-### 참고문헌
+#### 참고문헌
  * [Github Profile 페이지 꾸미기, 드림코딩] [https://www.youtube.com/watch?v=w9DfC2BHGPA&t=8s]
  * [Markdown 언어, 드림코딩] [https://www.youtube.com/watch?v=kMEb_BzyUqk]
  * [Markdown 사용법, 아보느] [https://www.youtube.com/watch?v=dUbp9wAy178&t=24s]
@@ -62,7 +62,7 @@
  * 7/29(월): Github Action을 활용한 CI/CD (시간: 오후 1시 30분, 장소: E동 321호)
  * 8/2(금): 팀 별 프로젝트 결과 발표(시간: 오후 1시 30분, 장소: E동 321호)
 
-### 참고문헌
+#### 참고문헌
  * [Github Action, 드림코딩] [https://www.youtube.com/watch?v=iLqGzEkusIw&t=6s]
  * [Github Action 튜토리얼, TechWorld with Nana] [https://www.youtube.com/watch?v=R8_veQiYBjI]
  * [YAML 튜토리얼, TechWorld with Nana] [https://www.youtube.com/watch?v=1uFVr15xDGg]
