@@ -36,7 +36,7 @@
  * 7/15(월): Github에서 협업하는 방법: Github Issues, Project, Pull-Request 사용법 (장소: E동 321호)
 
 ### 참고문헌
- * [Github로 그룹 프로젝트 하는 방법, 코딩하는 누나 동영상] [https://www.youtube.com/watch?v=9TycLR0TqFA]
+ * [Github로 그룹 프로젝트 하는 방법, 코딩하는 누나 동영상] [https://www.youtube.com/watch?v=tkkbYCajCjM&list=WL&index=2]
    
 ## 4주차(7/22 - 7/25)
  * 7/25(목) (장소:E동 321호)
