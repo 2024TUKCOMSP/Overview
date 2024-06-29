@@ -19,7 +19,8 @@
  * 7/1(월): 전공지도학생 학습 roadmap 소개(3학년 여름방학 ~ 4학년 1학기), Github Grganization 구성 (장소 E동 321호)
  * 7/2(화) - 7/5(금): Git/Github/Hithub Action 단기교육 수강 및 습득
    
-#### 참고문헌
+#### 강의 자료 및 참고문헌
+ * [전공지도학생 심화학습로드맵] 
  * [허준영 교수 강의자료] https://jyheo.github.io/github-lecture/
  * [지옥에서 온 문서관리자, 깃&깃허브 입문 저자 동영상] https://opentutorials.org/module/3733
 
