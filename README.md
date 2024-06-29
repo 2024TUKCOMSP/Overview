@@ -25,8 +25,8 @@
  * [지옥에서 온 문서관리자, 깃&깃허브 입문 저자 동영상] https://opentutorials.org/module/3733
 
 ## 2주차(7/8 - 7/12)
- * 7/8(월): Agile 개발방법론 및 Scrum Framework 소개, 팀 구성 (장소: E동 321호), 회식
- * 7/11(목): 팀 별로 구현할 프로젝트 발표 (장소 E동 321호)
+ * 7/8(월): Agile 개발방법론 및 Scrum Framework 소개, 팀 구성 (시간:오후 1시 30분, 장소: E동 321호), 회식(추후 공지)
+ * 7/11(목): 팀 별로 구현할 프로젝트 발표, 팀별 Repository 생성 및 팀원 초정 (시간: 오후 1시 30분, 장소 E동 321호)
 
 ### 참고문헌
  * [Scrum Overview 동영상] https://www.youtube.com/watch?v=9TycLR0TqFA
