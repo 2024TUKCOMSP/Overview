@@ -59,6 +59,7 @@
 
 ### 참고문헌
  * [Github Action, 드림코딩] [https://www.youtube.com/watch?v=iLqGzEkusIw&t=6s]
+ * [Github Action 튜토리얼, TechWorld with Nana] [https://www.youtube.com/watch?v=R8_veQiYBjI]
  * [YAML 튜토리얼, TechWorld with Nana] [https://www.youtube.com/watch?v=1uFVr15xDGg]
 
    
