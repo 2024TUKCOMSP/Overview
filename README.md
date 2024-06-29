@@ -20,7 +20,7 @@
  * 7/2(화) - 7/5(금): Git/Github/Hithub Action 단기교육 수강 및 습득
    
 #### 강의 자료 및 참고문헌
- * [전공지도학생 심화학습로드맵] (2024SP-StudyPlan)
+ * [전공지도학생 심화학습로드맵] (2024SP-StudyPlan.pdf)
  * [허준영 교수 강의자료] https://jyheo.github.io/github-lecture/
  * [지옥에서 온 문서관리자, 깃&깃허브 입문 저자 동영상] https://opentutorials.org/module/3733
 
