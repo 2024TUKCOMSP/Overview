@@ -52,11 +52,11 @@
  * [Markdown 사용법, 아보느] [https://www.youtube.com/watch?v=dUbp9wAy178&t=24s]
    
 ## 5주차(7/29 - 8/2)
- * 7/29(월):  (장소: E동 321호)
- * 8/2(금): 프로젝트 발표
+ * 7/29(월): Github Action을 활용한 CI/CD (시간: 오후 1시 30분, 장소: E동 321호)
+ * 8/2(금): 팀 별 프로젝트 결과 발표(시간: 오후 1시 30분, 장소: E동 321호)
 
 ### 참고문헌
- * [Github Action, 드림코] [https://www.youtube.com/watch?v=iLqGzEkusIw&t=6s]
+ * [Github Action, 드림코딩] [https://www.youtube.com/watch?v=iLqGzEkusIw&t=6s]
  * [YAML 튜토리얼, TechWorld with Nana] [https://www.youtube.com/watch?v=1uFVr15xDGg]
 
    
