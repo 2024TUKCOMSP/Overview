@@ -38,6 +38,7 @@
 
 ### 참고문헌
  * [Github로 그룹 프로젝트 하는 방법, 코딩하는 누나 동영상] [https://www.youtube.com/watch?v=tkkbYCajCjM&list=WL&index=2]
+ * [Git Flow, 코딩애플] [https://www.youtube.com/watch?v=EV3FZ3cWBp8&t=269s]
  * [안드로이드 Firebase 강의, 하울의 코딩 채널] https://www.youtube.com/watch?v=u1CE6UtLbmQ&list=PLmdU__e_zPf_6x2x_7iNDrH2faXNdVM4K&index=1
  * [Firebase로 만드는 당근마켓, 코딩애플] [https://www.youtube.com/watch?v=9RkXchEJgKU]
    
