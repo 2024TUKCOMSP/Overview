@@ -1,5 +1,6 @@
-# 2024년 한국공대 컴퓨터공학부 여름방학 Study Plan
 ---
+# 2024년 한국공대 컴퓨터공학부 여름방학 Study Plan
+
 ## 교육 목표
   * Agile 개발 방법론 습득
     * Scrum Framework
