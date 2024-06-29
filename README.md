@@ -45,6 +45,8 @@
    
 ## 4주차(7/22 - 7/25)
  * 7/25(목) Guthub Pages를 이용한 개발자 Portfolio 관리 (시간: 오후 1시 30분, 장소:E동 321호)
+ * AI Coding Assistant를 활용한 소프트웨어 개발
+ * VS Code 사용법
    
 ### 참고문헌
  * [Github Profile 페이지 꾸미기, 드림코딩] [https://www.youtube.com/watch?v=w9DfC2BHGPA&t=8s]
