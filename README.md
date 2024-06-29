@@ -56,6 +56,7 @@
  * 8/2(금): 프로젝트 발표
 
 ### 참고문헌
+ * [Github Action, 드림코] [https://www.youtube.com/watch?v=iLqGzEkusIw&t=6s]
  * [YAML 튜토리얼, TechWorld with Nana] [https://www.youtube.com/watch?v=1uFVr15xDGg]
 
    
