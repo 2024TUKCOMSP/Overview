@@ -44,16 +44,20 @@
  * [Firebase로 만드는 당근마켓, 코딩애플] [https://www.youtube.com/watch?v=9RkXchEJgKU]
    
 ## 4주차(7/22 - 7/25)
- * 7/25(목) (장소:E동 321호)
-
-## 5주차(7/29 - 8/2)
- * 7/29(월): Guthub Pages를 이용한 개발자 Portfolio 관리 (장소: E동 321호)
- * 8/2(금): 프로젝트 발표
-
+ * 7/25(목) Guthub Pages를 이용한 개발자 Portfolio 관리 (시간: 오후 1시 30분, 장소:E동 321호)
+   
 ### 참고문헌
  * [Github Profile 페이지 꾸미기, 드림코딩] [https://www.youtube.com/watch?v=w9DfC2BHGPA&t=8s]
  * [Markdown 언어, 드림코딩] [https://www.youtube.com/watch?v=kMEb_BzyUqk]
  * [Markdown 사용법, 아보느] [https://www.youtube.com/watch?v=dUbp9wAy178&t=24s]
+   
+## 5주차(7/29 - 8/2)
+ * 7/29(월):  (장소: E동 321호)
+ * 8/2(금): 프로젝트 발표
+
+### 참고문헌
+ * [YAML 튜토리얼, TechWorld with Nana] [https://www.youtube.com/watch?v=1uFVr15xDGg]
+
    
 ## 6주차(8/5 - 8/8)
  * pytorch를 이용한 딥러닝 개요 단기 강좌 수강
