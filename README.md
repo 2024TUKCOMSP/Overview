@@ -38,7 +38,7 @@
  * [스크럼 강의 동영상 모음] [https://www.youtube.com/watch?v=2ukuT00ubuk&list=PLEzRFBCPYeykK--XlWANwKcvhf23DyS3G&index=1&t=8s]
    
 ## 3주차(7/15 - 7/19)
- * 7/15(월): Github에서 협업하는 방법: Github Issues, Project, Pull-Request, Git Flow (장소: E동 321호)
+ * 7/15(월): Github에서 협업하는 방법: Github Issues, Project, Pull-Request, Git Flow (시간: 오후 1시 30분, 장소: E동 321호)
 
 #### 참고문헌
  * [Github로 그룹 프로젝트 하는 방법, 코딩하는 누나 동영상] [https://www.youtube.com/watch?v=tkkbYCajCjM&list=WL&index=2]
