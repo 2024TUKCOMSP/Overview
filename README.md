@@ -20,18 +20,18 @@
  * 7/2(화) - 7/5(금): Git/Github/Hithub Action 단기교육 수강 및 습득
    
 #### 강의 자료 및 참고문헌
- * [전공지도학생 심화학습로드맵] https://github.com/2024TUKCOMSP/Overview/blob/main/2024SP-StudyPlan.pdf
- * [허준영 교수 강의자료] https://jyheo.github.io/github-lecture/
- * [지옥에서 온 문서관리자, 깃&깃허브 입문 저자 동영상] https://opentutorials.org/module/3733
+ * [전공지도학생 심화학습로드맵] [https://github.com/2024TUKCOMSP/Overview/blob/main/2024SP-StudyPlan.pdf]
+ * [허준영 교수 강의자료] [https://jyheo.github.io/github-lecture/]
+ * [지옥에서 온 문서관리자, 깃&깃허브 입문 저자 동영상] [https://opentutorials.org/module/3733]
 
 ## 2주차(7/8 - 7/12)
  * 7/8(월): Agile 개발방법론 및 Scrum Framework 소개, 팀 구성 (시간:오후 1시 30분, 장소: E동 321호), 회식(추후 공지)
  * 7/11(목): 팀 별로 구현할 프로젝트 발표, 팀별 Repository 생성 및 팀원 초정 (시간: 오후 1시 30분, 장소 E동 321호)
 
 ### 참고문헌
- * [Scrum Overview 동영상] https://www.youtube.com/watch?v=9TycLR0TqFA
- * [스크럼 강의 동영상 모음] https://www.youtube.com/watch?v=2ukuT00ubuk&list=PLEzRFBCPYeykK--XlWANwKcvhf23DyS3G&index=1&t=8s
- * [애자일 소프트웨어 개발] https://www.youtube.com/watch?v=NoMznX8S9pU&list=PL9mhQYIlKEhf3JxWcaim5anL0_pVFRsZT
+ * [Scrum Overview 동영상] [https://www.youtube.com/watch?v=9TycLR0TqFA]
+ * [스크럼 강의 동영상 모음] [https://www.youtube.com/watch?v=2ukuT00ubuk&list=PLEzRFBCPYeykK--XlWANwKcvhf23DyS3G&index=1&t=8s]
+ * [애자일 소프트웨어 개발] [https://www.youtube.com/watch?v=NoMznX8S9pU&list=PL9mhQYIlKEhf3JxWcaim5anL0_pVFRsZT]
    
 ## 3주차(7/15 - 7/19)
  * 7/15(월): Github에서 협업하는 방법: Github Issues, Project, Pull-Request, Git Flow (장소: E동 321호)
