@@ -54,6 +54,7 @@
  * [Github Profile 페이지 꾸미기, 드림코딩] [https://www.youtube.com/watch?v=w9DfC2BHGPA&t=8s]
  * [Markdown 언어, 드림코딩] [https://www.youtube.com/watch?v=kMEb_BzyUqk]
  * [Markdown 사용법, 아보느] [https://www.youtube.com/watch?v=dUbp9wAy178&t=24s]
+ * [VS Code 기본사용법, 생활코딩] [https://www.youtube.com/watch?v=K8qVH8V0VvY&t=195s]
  * [VS Code로 다루는 Git, 생활코딩] [https://www.youtube.com/watch?v=M_0vwGlz5EM&list=PLuHgQVnccGMAQvSVKdXFiOo51HUD8iQQm&index=1]
    
 ## 5주차(7/29 - 8/2)
