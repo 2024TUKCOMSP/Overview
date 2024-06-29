@@ -35,7 +35,6 @@
  * [Scrum Overview 동영상] [https://www.youtube.com/watch?v=9TycLR0TqFA]
  * [애자일 소프트웨어 개발, SKPlanet TAcademy] [https://www.youtube.com/watch?v=NoMznX8S9pU&list=PL9mhQYIlKEhf3JxWcaim5anL0_pVFRsZT]
  * [스크럼 강의 동영상 모음] [https://www.youtube.com/watch?v=2ukuT00ubuk&list=PLEzRFBCPYeykK--XlWANwKcvhf23DyS3G&index=1&t=8s]
- * [애자일 소프트웨어 개발] [https://www.youtube.com/watch?v=NoMznX8S9pU&list=PL9mhQYIlKEhf3JxWcaim5anL0_pVFRsZT]
    
 ## 3주차(7/15 - 7/19)
  * 7/15(월): Github에서 협업하는 방법: Github Issues, Project, Pull-Request, Git Flow (장소: E동 321호)
