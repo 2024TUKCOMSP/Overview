@@ -38,6 +38,7 @@
 
 ### 참고문헌
  * [Github로 그룹 프로젝트 하는 방법, 코딩하는 누나 동영상] [https://www.youtube.com/watch?v=tkkbYCajCjM&list=WL&index=2]
+ * [안드로이드 Firebase 강의, 하울의 코딩 채널] https://www.youtube.com/watch?v=u1CE6UtLbmQ&list=PLmdU__e_zPf_6x2x_7iNDrH2faXNdVM4K&index=1
    
 ## 4주차(7/22 - 7/25)
  * 7/25(목) (장소:E동 321호)
