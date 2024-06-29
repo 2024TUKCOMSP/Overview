@@ -32,6 +32,7 @@
  * 7/11(목): 팀 별로 구현할 프로젝트 발표, 팀별 Repository 생성 및 팀원 초정 (시간: 오후 1시 30분, 장소 E동 321호)
 
 ### 참고문헌
+ * [Scrum 강의자료] [https://github.com/2024TUKCOMSP/Overview/blob/main/2024SP-StudyPlan.pdf]
  * [Scrum Overview 동영상] [https://www.youtube.com/watch?v=9TycLR0TqFA]
  * [애자일 소프트웨어 개발, SKPlanet TAcademy] [https://www.youtube.com/watch?v=NoMznX8S9pU&list=PL9mhQYIlKEhf3JxWcaim5anL0_pVFRsZT]
  * [스크럼 강의 동영상 모음] [https://www.youtube.com/watch?v=2ukuT00ubuk&list=PLEzRFBCPYeykK--XlWANwKcvhf23DyS3G&index=1&t=8s]
