@@ -53,6 +53,7 @@
 ### 참고문헌
  * [Github Profile 페이지 꾸미기, 드림코딩] [https://www.youtube.com/watch?v=w9DfC2BHGPA&t=8s]
  * [Markdown 언어, 드림코딩] [https://www.youtube.com/watch?v=kMEb_BzyUqk]
+ * [Markdown 사용법, 아보느] [https://www.youtube.com/watch?v=dUbp9wAy178&t=24s]
    
 ## 6주차(8/5 - 8/8)
  * pytorch를 이용한 딥러닝 개요 단기 강좌 수강
