@@ -21,9 +21,11 @@
    
 #### 강의 자료 및 참고문헌
  * [전공지도학생 심화학습로드맵] [https://github.com/2024TUKCOMSP/Overview/blob/main/2024SP-StudyPlan.pdf]
- * [UNIX Tmux 사용법] [https://github.com/2024TUKCOMSP/Overview/blob/main/Terminal-Multiplexer.pdf]
+ * [Git, Github 사용법1, 코딩 알려주는 누나] [https://www.youtube.com/watch?v=lelVripbt2M&t=612s]
+ * [Git. Github 사용법2, 코딩 알려주는 누나] [https://www.youtube.com/watch?v=cwC8t9dno2s]
  * [허준영 교수 강의자료] [https://jyheo.github.io/github-lecture/]
  * [지옥에서 온 문서관리자, 깃&깃허브 입문 저자 동영상] [https://opentutorials.org/module/3733]
+ * [UNIX Tmux 사용법] [https://github.com/2024TUKCOMSP/Overview/blob/main/Terminal-Multiplexer.pdf]
 
 ## 2주차(7/8 - 7/12)
  * 7/8(월): Agile 개발방법론 및 Scrum Framework 소개, 팀 구성 (시간:오후 1시 30분, 장소: E동 321호), 회식(추후 공지)
