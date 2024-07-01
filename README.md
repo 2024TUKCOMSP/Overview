@@ -11,6 +11,11 @@
   * 소프트웨어 개발 툴 습득
     * UNIX의 Tmux 사용법, VScode 사용법, Markdown 언어 사용법, Yaml 언어 사용법
    
+## 참여학생
+ * 서하연 (srn13542), 김동일(kimdongiil), 김현빈(Hyunbeen0903), 임정윤(jzongyun), 석민정(minjaon), 유수현(6suhyeon)
+ * 김민지(min-minnn), 조승연(moanuna), 김도연(kdy17), 김현수(kimhyeonsu-1024), 연찬호(kecetchip), 김성렬(KimSeongRyeol)
+ * 김태경(taekyeng), 양동균(ydg0724), 김진우(vocal4123), 이예권(Baaunn), 김민창(k-m-c-h), 박강서(qkrrkdtj)
+   
 ### 참여 학생의 자세
  * 오픈 마인드를 가지고 참여하는 동료와 적극적으로 협업하며, 타인의 학습에 방해가 되지 않습니다.
  * 적극적인 참여 의지를 가지고 웬만한 문제는 본인 스스로 찾아서 해결합니다(스스로 학습).
