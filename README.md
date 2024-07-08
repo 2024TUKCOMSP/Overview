@@ -40,8 +40,8 @@
  * [UNIX Tmux 사용법] [https://github.com/2024TUKCOMSP/Overview/blob/main/Terminal-Multiplexer.pdf]
 
 ## 2주차(7/8 - 7/12)
- * 7/8(월): Agile 개발방법론 및 Scrum Framework 소개, 팀 구성 (시간:오후 3시 30분, 장소: E동 321호), 회식(추후 공지)
- * 7/11(목): 팀 별로 구현할 프로젝트 발표, 팀별 Repository 생성 및 팀원 초청 (시간: 오후 1시 30분, 장소 E동 321호)
+ * 7/8(월): 팀 구성, 팀별 Repository 생성 및 팀원 초청 (시간:오후 3시 30분, 장소: E동 319호)
+ * 7/11(목): Agile 개발방법론 및 Scrum Framework 소개, 팀 별로 구현할 프로젝트 발표, (시간: 오후 1시 30분, 장소 E동 319호)
 
 #### 강의자료 및 참고문헌
  * [Scrum 강의자료] [https://github.com/2024TUKCOMSP/Overview/blob/main/2024SP-StudyPlan.pdf]
