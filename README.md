@@ -66,7 +66,7 @@
  * VS Code 사용법
    
 #### 참고문헌
- * 브렌트 래스터 저, 정의형, 정한결 역, 러닝 킷허브 액션, 한빛미디어, 2024
+ * 브렌트 래스터 저, 정의형, 정한결 역, 러닝 킷허브 액션, 한빛미디어, 2024 [github.com/HangryDev/learning-github-actions]
  * [Github Action, 드림코딩] [https://www.youtube.com/watch?v=iLqGzEkusIw&t=6s]
  * [Github Action 튜토리얼, TechWorld with Nana] [https://www.youtube.com/watch?v=R8_veQiYBjI]
  * [YAML 튜토리얼, TechWorld with Nana] [https://www.youtube.com/watch?v=1uFVr15xDGg]
