@@ -70,6 +70,7 @@
  * [Github Action, 드림코딩] [https://www.youtube.com/watch?v=iLqGzEkusIw&t=6s]
  * [Github Action 튜토리얼, TechWorld with Nana] [https://www.youtube.com/watch?v=R8_veQiYBjI]
  * [YAML 튜토리얼, TechWorld with Nana] [https://www.youtube.com/watch?v=1uFVr15xDGg]
+ * 리브로웍스 저, 김은철, 유세라 역, 비주얼 스튜디오 코드 가이드, 영진닷컴, 2023
  * [VS Code 기본사용법, 생활코딩] [https://www.youtube.com/watch?v=K8qVH8V0VvY&t=195s]
  * [VS Code로 다루는 Git, 생활코딩] [https://www.youtube.com/watch?v=M_0vwGlz5EM&list=PLuHgQVnccGMAQvSVKdXFiOo51HUD8iQQm&index=1]
    
