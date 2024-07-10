@@ -62,25 +62,25 @@
  * [Firebase로 만드는 당근마켓, 코딩애플] [https://www.youtube.com/watch?v=9RkXchEJgKU]
    
 ## 4주차(7/22 - 7/25)
- * 7/25(목):  팀별 Github 협업 예제 발표, Github Action을 활용한 CI/CD 발표 (시간: 오후 1시 30분, 장소: E동 319호)
+ * 7/25(목): 팀별 Github 협업 예제 발표, Github Action을 활용한 CI/CD 발표 (시간: 오후 1시 30분, 장소: E동 319호)
  * VS Code 사용법
    
-#### 참고문헌
- * [Github Profile 페이지 꾸미기, 드림코딩] [https://www.youtube.com/watch?v=w9DfC2BHGPA&t=8s]
- * [Markdown 언어, 드림코딩] [https://www.youtube.com/watch?v=kMEb_BzyUqk]
- * [Markdown 사용법, 아보느] [https://www.youtube.com/watch?v=dUbp9wAy178&t=24s]
- * [VS Code 기본사용법, 생활코딩] [https://www.youtube.com/watch?v=K8qVH8V0VvY&t=195s]
- * [VS Code로 다루는 Git, 생활코딩] [https://www.youtube.com/watch?v=M_0vwGlz5EM&list=PLuHgQVnccGMAQvSVKdXFiOo51HUD8iQQm&index=1]
-   
-## 5주차(7/29 - 8/2)
- * 7/29(월): Guthub Pages를 이용한 개발자 Portfolio 관리 (시간: 오후 1시 30분, 장소:E동 319호)
-   AI Coding Assistant를 활용한 소프트웨어 개발 
- * 8/2(금): 팀 별 최종 프로젝트 결과 발표 및 데모 (시간: 오후 1시 30분, 장소: E동 319호)
-
 #### 참고문헌
  * [Github Action, 드림코딩] [https://www.youtube.com/watch?v=iLqGzEkusIw&t=6s]
  * [Github Action 튜토리얼, TechWorld with Nana] [https://www.youtube.com/watch?v=R8_veQiYBjI]
  * [YAML 튜토리얼, TechWorld with Nana] [https://www.youtube.com/watch?v=1uFVr15xDGg]
+ * [VS Code 기본사용법, 생활코딩] [https://www.youtube.com/watch?v=K8qVH8V0VvY&t=195s]
+ * [VS Code로 다루는 Git, 생활코딩] [https://www.youtube.com/watch?v=M_0vwGlz5EM&list=PLuHgQVnccGMAQvSVKdXFiOo51HUD8iQQm&index=1]
+   
+## 5주차(7/29 - 8/2)
+ * 7/29(월): Guthub Pages를 이용한 개발자 Portfolio 관리 (시간: 오후 1시 30분, 장소:E동 319호)  
+   AI Coding Assistant를 활용한 소프트웨어 개발 
+ * 8/2(금): 팀 별 최종 프로젝트 결과 발표 및 데모 (시간: 오후 1시 30분, 장소: E동 319호)
+
+#### 참고문헌
+ * [Github Profile 페이지 꾸미기, 드림코딩] [https://www.youtube.com/watch?v=w9DfC2BHGPA&t=8s]
+ * [Markdown 언어, 드림코딩] [https://www.youtube.com/watch?v=kMEb_BzyUqk]
+ * [Markdown 사용법, 아보느] [https://www.youtube.com/watch?v=dUbp9wAy178&t=24s]
 
    
 ## 6주차(8/5 - 8/8)
