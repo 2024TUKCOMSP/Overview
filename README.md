@@ -62,7 +62,7 @@
  * [Firebase로 만드는 당근마켓, 코딩애플] [https://www.youtube.com/watch?v=9RkXchEJgKU]
    
 ## 4주차(7/22 - 7/25)
- * 7/25(목): 팀별 Github 협업 예제 발표, Github Action을 활용한 CI/CD 발표 (시간: 오후 1시 30분, 장소: E동 319호)
+ * 7/25(목): 팀별 Github 협업 예제 발표, Github Action을 활용한 CI/CD 발표 (시간: 오후 2시 30분, 장소: E동 319호)
  * VS Code 사용법
    
 #### 참고문헌
