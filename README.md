@@ -75,9 +75,8 @@
  * [VS Code로 다루는 Git, 생활코딩] [https://www.youtube.com/watch?v=M_0vwGlz5EM&list=PLuHgQVnccGMAQvSVKdXFiOo51HUD8iQQm&index=1]
    
 ## 5주차(7/29 - 8/2)
- * 7/29(월): Guthub Pages를 이용한 개발자 Portfolio 관리 (시간: 오후 1시 30분, 장소:E동 318호)  
-   AI Coding Assistant를 활용한 소프트웨어 개발 
  * 8/2(금): 팀 별 최종 프로젝트 결과 발표 및 데모 (시간: 오후 1시 30분, 장소: E동 318호)
+ * Guthub Pages를 이용한 개발자 Portfolio 관리, AI Coding Assistant를 활용한 소프트웨어 개발 
 
 #### 참고문헌
  * [Github Profile 페이지 꾸미기, 드림코딩] [https://www.youtube.com/watch?v=w9DfC2BHGPA&t=8s]
