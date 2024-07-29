@@ -47,6 +47,7 @@
  * 7/11(목): Agile 개발방법론 및 Scrum Framework 소개, 팀 별로 구현할 프로젝트 발표 (시간: 오후 1시 30분, 장소 E동 319호)
 
 #### 강의자료 및 참고문헌
+ * 마이클 카우프맡 저, 최재웅 외 역, 깃허브로 완성하는 데브옵스 가속화, 에이콘출판사, 2024.
  * [Scrum 강의자료] [https://github.com/2024TUKCOMSP/Overview/blob/main/ScrumFramework.pdf]
  * [Scrum Overview 동영상] [https://www.youtube.com/watch?v=9TycLR0TqFA]
  * [애자일 소프트웨어 개발, SKPlanet TAcademy] [https://www.youtube.com/watch?v=NoMznX8S9pU&list=PL9mhQYIlKEhf3JxWcaim5anL0_pVFRsZT]
